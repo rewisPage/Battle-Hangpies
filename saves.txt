@@ -1,0 +1,2 @@
+// FORMAT: username|secretWord|clue|guessedLetters|enemyName|enemyHp|enemyMaxHp|enemyAtk|enemyImageFolder|enemyLevel|playerPetId|playerPetHp
+player123|VOLCANO|A mountain that erupts lava|SCVLO|Frost Atronach|15|20|3|enemies/enemies/blue|3|6a144ec6-75be-4277-9e11-102a97a6c918|2

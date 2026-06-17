@@ -1,0 +1,2 @@
+// uniqueId|ownerUsername|productId|customName|level
+0d874102-bfa0-4863-96b0-516d9dfb6aa4|player123|HP-003|BLOORTH|1

@@ -1,0 +1,9 @@
+// FORMAT: hangpieID|name|description|price|maxHealth|level|attackPower|imageName
+HP-002|Flame J'zargo|The Dragon Priest of Fire|300.0|5|1|1|flame_wizard
+HP-001|Wizard Miraak|The First Dragonborn|300.0|5|1|1|evil_wizard
+HP-004|Hunter Jenassa|Amazonian Mercenary|300.0|5|1|1|huntress
+HP-003|Dovahkiin|The Last Dragonborn|300.0|5|1|1|hero
+HP-006|Blood Serana|Vampire Necromage|400.0|4|1|2|sorceress
+HP-005|King Ulfric|Jarl of Windhelm|350.0|6|1|1|king
+HP-008|Chief Vilkas|Warrior of The Companions|300.0|5|1|1|warrior
+HP-007|M'aiq the Liar|Khajiit Wanderer|300.0|5|1|1|wanderer

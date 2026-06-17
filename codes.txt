@@ -1,0 +1,10 @@
+// FORMAT: codeString|goldValue|isUsed|redeemedBy
+Q9EV-V97H-QB1T|100.0|false|N/A
+043T-1A4X-47R2|100.0|false|N/A
+6RKH-4LLO-KW2S|100.0|false|N/A
+8T2T-UMNI-EU84|100.0|false|N/A
+WJOJ-2F25-TWXR|100.0|false|N/A
+UPWD-I1QQ-63K0|100.0|false|N/A
+KER0-V97O-JZM2|100.0|false|N/A
+XYFE-ZU2J-V6EH|100.0|false|N/A
+4OBU-0Y2H-C7GW|100.0|false|N/A

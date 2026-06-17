@@ -1,0 +1,4 @@
+// FORMAT: username|password|isAdmin|firstName|lastName|contactNum|isBanned|goldBalance|worldLvl|progressLvl
+admin|admin123|true|Admin|User|09127775285|false|0.0|1|1
+player001|password123|false|Player|One|09127775259|false|9400.0|1|1
+player123|password123|false|Player|One|09127775259|false|9700.0|1|1

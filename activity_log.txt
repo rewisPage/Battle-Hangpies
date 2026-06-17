@@ -1,0 +1,176 @@
+[2025-12-08 23:55:57] | admin | Logged in successfully.
+[2025-12-08 23:56:19] | admin | Updated user: admin
+[2025-12-08 23:57:16] | admin | Logged in successfully.
+[2025-12-08 23:59:13] | admin | Logged in successfully.
+[2025-12-08 23:59:29] | admin | Logged in successfully.
+[2025-12-09 00:00:37] | admin | Logged in successfully.
+[2025-12-09 00:04:21] | admin | Logged in successfully.
+[2025-12-09 00:29:42] | admin | Logged in successfully.
+[2025-12-09 00:30:25] | admin | Logged in successfully.
+[2025-12-09 00:32:03] | admin | Logged in successfully.
+[2025-12-09 00:32:40] | admin | Logged in successfully.
+[2025-12-09 00:32:52] | admin | Logged in successfully.
+[2025-12-09 00:34:15] | admin | Logged in successfully.
+[2025-12-09 00:35:00] | admin | Logged in successfully.
+[2025-12-09 00:36:25] | admin | Logged in successfully.
+[2025-12-09 00:38:05] | admin | Logged in successfully.
+[2025-12-09 01:00:55] | admin | Logged in successfully.
+[2025-12-09 01:14:24] | admin | Logged in successfully.
+[2025-12-09 01:17:33] | admin | Logged in successfully.
+[2025-12-09 01:19:32] | admin | Logged in successfully.
+[2025-12-09 01:20:29] | admin | Logged in successfully.
+[2025-12-09 02:30:15] | admin | Logged in successfully.
+[2025-12-09 02:31:01] | admin | Logged in successfully.
+[2025-12-09 02:33:40] | admin | Logged in successfully.
+[2025-12-09 02:35:18] | admin | Logged in successfully.
+[2025-12-09 02:51:53] | admin | Logged in successfully.
+[2025-12-09 02:55:18] | admin | Logged in successfully.
+[2025-12-09 02:55:56] | admin | Logged in successfully.
+[2025-12-09 02:56:35] | admin | Logged in successfully.
+[2025-12-09 03:10:46] | admin | Logged in successfully.
+[2025-12-09 03:11:11] | admin | Logged in successfully.
+[2025-12-09 03:11:50] | admin | Logged in successfully.
+[2025-12-09 03:21:33] | admin | Logged in successfully.
+[2025-12-09 03:21:53] | admin | Logged in successfully.
+[2025-12-09 03:25:04] | admin | Logged in successfully.
+[2025-12-09 03:26:27] | player123 | Logged in successfully.
+[2025-12-09 03:26:55] | player123 | Logged in successfully.
+[2025-12-09 03:27:04] | player123 | Bought Teheheho from the Shop for 100.0G.
+[2025-12-09 03:30:01] | admin | Logged in successfully.
+[2025-12-09 03:31:12] | admin | Logged in successfully.
+[2025-12-09 03:34:03] | admin | Logged in successfully.
+[2025-12-09 03:34:29] | admin | Logged in successfully.
+[2025-12-09 03:35:21] | player123 | Logged in successfully.
+[2025-12-09 03:35:27] | player123 | Bought Tahohoes from the Shop for 100.0G.
+[2025-12-09 03:43:22] | admin | Logged in successfully.
+[2025-12-09 03:44:07] | admin | Logged in successfully.
+[2025-12-09 03:51:43] | admin | Logged in successfully.
+[2025-12-09 03:52:42] | player123 | Logged in successfully.
+[2025-12-09 03:54:08] | admin | Logged in successfully.
+[2025-12-09 03:54:40] | admin | Updated user: player123
+[2025-12-09 03:54:49] | player123 | Logged in successfully.
+[2025-12-09 03:55:05] | player123 | Logged in successfully.
+[2025-12-09 03:55:12] | admin | Logged in successfully.
+[2025-12-09 03:55:47] | admin | Updated user: player123
+[2025-12-09 04:01:53] | admin | Logged in successfully.
+[2025-12-09 04:06:31] | admin | Logged in successfully.
+[2025-12-09 04:29:44] | player123 | Logged in successfully.
+[2025-12-09 04:29:55] | player123 | Bought Wizard Miraak from the Shop for 300.0G.
+[2025-12-09 11:38:12] | player123 | Logged in successfully.
+[2025-12-09 11:38:20] | player123 | Bought Wizard Miraak from the Shop for 300.0G.
+[2025-12-09 11:39:06] | player123 | Logged in successfully.
+[2025-12-09 11:56:49] | player123 | Logged in successfully.
+[2025-12-09 11:59:45] | player123 | Logged in successfully.
+[2025-12-09 12:01:30] | player123 | Logged in successfully.
+[2025-12-09 12:24:34] | player123 | Logged in successfully.
+[2025-12-09 12:51:13] | player123 | Logged in successfully.
+[2025-12-09 13:08:03] | player123 | Logged in successfully.
+[2025-12-09 13:10:12] | player123 | Logged in successfully.
+[2025-12-09 13:11:15] | player123 | Logged in successfully.
+[2025-12-09 13:11:46] | player123 | Logged in successfully.
+[2025-12-09 13:14:10] | player123 | Logged in successfully.
+[2025-12-09 13:15:45] | admin | Logged in successfully.
+[2025-12-09 13:53:47] | admin | Logged in successfully.
+[2025-12-09 13:56:56] | admin | Logged in successfully.
+[2025-12-09 13:57:18] | admin | Logged in successfully.
+[2025-12-09 13:57:48] | player123 | Logged in successfully.
+[2025-12-09 13:57:52] | player123 | Redeemed code J6P8-9UCR-6WPM for 100.0G.
+[2025-12-09 13:58:04] | admin | Logged in successfully.
+[2025-12-09 14:00:26] | admin | Logged in successfully.
+[2025-12-09 14:01:07] | admin | Logged in successfully.
+[2025-12-09 14:02:08] | admin | Logged in successfully.
+[2025-12-09 14:02:24] | admin | Logged in successfully.
+[2025-12-09 14:03:13] | admin | Logged in successfully.
+[2025-12-09 17:49:48] | admin | Logged in successfully.
+[2025-12-09 17:53:37] | admin | Logged in successfully.
+[2025-12-09 17:54:15] | admin | Logged in successfully.
+[2025-12-09 17:54:50] | admin | Logged in successfully.
+[2025-12-09 17:55:32] | admin | Updated user: admin
+[2025-12-09 17:55:42] | admin | Logged in successfully.
+[2025-12-09 17:56:06] | admin | Logged in successfully.
+[2025-12-09 17:56:31] | admin | Logged in successfully.
+[2025-12-09 17:56:45] | admin | Logged in successfully.
+[2025-12-09 17:57:03] | admin | Logged in successfully.
+[2025-12-09 17:57:15] | admin | Logged in successfully.
+[2025-12-09 17:58:33] | admin | Logged in successfully.
+[2025-12-09 17:58:51] | admin | Logged in successfully.
+[2025-12-09 17:59:15] | admin | Logged in successfully.
+[2025-12-09 18:00:41] | admin | Logged in successfully.
+[2025-12-09 18:01:12] | admin | Logged in successfully.
+[2025-12-09 18:01:24] | admin | Logged in successfully.
+[2025-12-09 18:02:23] | admin | Logged in successfully.
+[2025-12-09 18:02:47] | admin | Logged in successfully.
+[2025-12-09 18:03:16] | admin | Logged in successfully.
+[2025-12-09 18:03:38] | admin | Logged in successfully.
+[2025-12-09 18:03:47] | admin | Logged in successfully.
+[2025-12-09 18:04:05] | admin | Logged in successfully.
+[2025-12-09 18:04:19] | admin | Logged in successfully.
+[2025-12-09 18:04:32] | admin | Logged in successfully.
+[2025-12-09 18:04:42] | admin | Logged in successfully.
+[2025-12-09 18:04:54] | admin | Logged in successfully.
+[2025-12-09 18:06:06] | admin | Logged in successfully.
+[2025-12-09 18:06:20] | admin | Logged in successfully.
+[2025-12-09 18:06:49] | admin | Logged in successfully.
+[2025-12-09 18:07:16] | admin | Logged in successfully.
+[2025-12-09 18:07:48] | admin1234 | Logged in successfully.
+[2025-12-09 18:08:32] | admin1234 | Logged in successfully.
+[2025-12-09 18:08:56] | admin | Logged in successfully.
+[2025-12-09 18:09:17] | admin | Logged in successfully.
+[2025-12-09 18:09:41] | admin | Logged in successfully.
+[2025-12-09 18:09:58] | admin | Updated user: player123
+[2025-12-09 18:10:10] | admin | Attempted to delete user: player123. Result: 1
+[2025-12-09 18:10:30] | admin | Logged in successfully.
+[2025-12-09 18:24:23] | admin | Logged in successfully.
+[2025-12-09 18:26:50] | admin | Updated user: player123
+[2025-12-09 18:40:34] | admin | Logged in successfully.
+[2025-12-09 18:40:53] | admin | Attempted to delete user: 2. Result: 0
+[2025-12-09 18:40:56] | admin | Attempted to delete user: 2. Result: 0
+[2025-12-09 18:41:11] | admin | Updated user: player123
+[2025-12-09 18:46:14] | admin | Logged in successfully.
+[2025-12-09 18:46:29] | admin | Updated user: player123
+[2025-12-09 19:00:48] | admin | Logged in successfully.
+[2025-12-09 19:01:06] | admin | Updated user: player123
+[2025-12-10 02:27:50] | admin | Logged in successfully.
+[2025-12-10 02:55:57] | admin | Logged in successfully.
+[2025-12-10 02:57:48] | admin | Logged in successfully.
+[2025-12-10 02:58:48] | admin | Logged in successfully.
+[2025-12-10 03:02:01] | admin | Logged in successfully.
+[2025-12-10 03:08:31] | admin | Updated user: player123
+[2025-12-10 03:09:46] | admin | Logged in successfully.
+[2025-12-10 03:10:00] | admin | Logged in successfully.
+[2025-12-10 03:10:18] | admin | Updated user: player123
+[2025-12-10 03:10:27] | player123 | Logged in successfully.
+[2025-12-10 03:10:35] | player123 | Logged in successfully.
+[2025-12-10 03:11:21] | player123 | Logged in successfully.
+[2025-12-10 03:12:07] | player123 | Bought Chief Vilkas from the Shop for 300.0G.
+[2025-12-10 03:18:52] | player123 | Logged in successfully.
+[2025-12-10 03:24:41] | player123 | Logged in successfully.
+[2025-12-10 05:47:33] | player123 | Logged in successfully.
+[2025-12-10 05:47:49] | player123 | Listed Chief Vilkas on the P2P Marketplace for 0.0G.
+[2025-12-10 05:49:05] | player001 | Logged in successfully.
+[2025-12-10 05:49:14] | player001 | Bought Chief Vilkas from player123 for 0.0G.
+[2025-12-10 05:49:14] | player123 | Sold Chief Vilkas to player001 for 0.0G.
+[2025-12-10 05:49:28] | player001 | Listed Chief Vilkas on the P2P Marketplace for 0.0G.
+[2025-12-10 05:49:43] | admin | Logged in successfully.
+[2025-12-10 05:50:09] | admin | Attempted to delete user: player001. Result: 1
+[2025-12-10 05:50:19] | player123 | Logged in successfully.
+[2025-12-10 05:51:18] | admin | Logged in successfully.
+[2025-12-10 05:51:37] | player123 | Logged in successfully.
+[2025-12-10 05:53:01] | player001 | Logged in successfully.
+[2025-12-10 05:53:09] | player001 | Bought Dovahkiin from the Shop for 300.0G.
+[2025-12-10 05:53:20] | player001 | Renamed hangpie named: BLOORTH
+[2025-12-10 05:53:34] | player001 | Listed BLOORTH on the P2P Marketplace for 0.0G.
+[2025-12-10 05:53:43] | player123 | Logged in successfully.
+[2025-12-10 05:53:49] | player123 | Bought BLOORTH from player001 for 0.0G.
+[2025-12-10 05:53:49] | player001 | Sold BLOORTH to player123 for 0.0G.
+[2025-12-10 05:56:14] | admin | Logged in successfully.
+[2025-12-14 18:23:56] | player123 | Logged in successfully.
+[2025-12-14 18:25:59] | player123 | Logged in successfully.
+[2025-12-14 18:26:41] | player123 | Logged in successfully.
+[2025-12-14 18:27:08] | player123 | Logged in successfully.
+[2025-12-14 18:27:43] | player123 | Logged in successfully.
+[2025-12-14 18:28:04] | player123 | Logged in successfully.
+[2025-12-14 18:28:27] | player123 | Logged in successfully.
+[2025-12-14 18:29:23] | admin | Logged in successfully.
+[2025-12-14 18:33:39] | admin | Logged in successfully.
+[2025-12-14 18:34:57] | admin | Attempted to delete user: admin. Result: [38;2;238;75;43mFAIL[0m
