@@ -126,3 +126,46 @@ Battle-Hangpies/
 ├── products.txt               # Local text file tracking listed marketplace items
 ├── codes.txt                  # Local text file listing generated balance vouchers
 └── README.md                  # System documentation manual
+```
+
+## ⚙️ Execution and Setup
+
+### 🛠️ Prerequisites
+* **Java Development Kit (JDK):** Version 8 or newer is required to successfully compile and run the Java AWT graphical components.
+* **IDE:** Eclipse IDE is highly recommended as the project structure is optimized for it, but any Java-compatible environment (IntelliJ IDEA, NetBeans, or CLI) will work.
+
+### 📥 Installation & Setup Guide
+
+**Step 1: Clone the Repository**
+Open your terminal or command prompt and execute the following command:
+
+```bash
+git clone [https://github.com/rewisPage/Battle-Hangpies.git](https://github.com/rewisPage/Battle-Hangpies.git)
+```
+
+**Step 2: Import the Project into Eclipse**
+1. Launch Eclipse IDE.
+2. Navigate to **File** > **Import...**
+3. Select **General** > **Existing Projects into Workspace** and click **Next**.
+4. Click **Browse...** next to "Select root directory" and locate the downloaded `Battle-Hangpies` folder.
+5. Ensure the project is checked in the "Projects" list area and click **Finish**.
+
+**Step 3: Verify Database Files (Crucial Step)**
+1. In the Eclipse Package Explorer, look at the root directory of the `Battle-Hangpies` project.
+2. Ensure that the three flat text files (`users.txt`, `products.txt`, `codes.txt`) are located at this root level (at the exact same level as the `src` folder, **not** inside it). 
+*Note: If `users.txt` is missing, the system's `UserManager` is designed to automatically generate a default file upon the first launch to prevent crash errors.*
+
+**Step 4: Launch the System**
+1. In the Eclipse Package Explorer, expand the `src` folder.
+2. Navigate to the `com.battlehangpies.main` package.
+3. Locate the primary driver class (e.g., `Main.java`).
+4. Right-click the file, select **Run As** > **Java Application**.
+5. Interact with the application via the Eclipse Console window at the bottom of your screen.
+
+### 🔑 Default System Credentials
+Upon launching, you can log into the system using the pre-configured administrator account:
+* **Role:** Admin
+* **Username:** `admin`
+* **Password:** `admin123`
+
+*(To test the standard user perspective, simply use the "Sign Up" option in the console menu upon startup to register a new player profile).*
