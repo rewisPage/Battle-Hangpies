@@ -8,6 +8,8 @@
 
 ![Image4](https://github.com/user-attachments/assets/ed2f25e2-d747-4514-882d-2d22e05396b5)
 
+![Image5](https://github.com/user-attachments/assets/bba96871-05f0-41fc-8fbe-d91295f72e33)
+
 ---
 
 ## 🎮 System Overview & Ecosystem
