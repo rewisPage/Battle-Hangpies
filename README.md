@@ -2,6 +2,9 @@
 
 **Battle Hangpies** is a Java-based mini-capstone project developed as an integrated text-console business management system combined with a graphical user interface (GUI) word-guessing battle game. The system is designed to showcase core competencies in Object-Oriented Programming (OOP) concepts, fundamental Data Structures and Algorithms (DSA), and flat text-file data persistence.
 
+![Image1](https://github.com/user-attachments/assets/e4a8cca7-2d4f-4eba-8d5e-406f6d98fb82)
+
+
 ---
 
 ## 🎮 System Overview & Ecosystem
