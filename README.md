@@ -2,6 +2,51 @@
 
 **Battle Hangpies** is a Java-based mini-capstone project developed as an integrated text-console business management system combined with a graphical user interface (GUI) word-guessing battle game. The system is designed to showcase core competencies in Object-Oriented Programming (OOP) concepts, fundamental Data Structures and Algorithms (DSA), and flat text-file data persistence.
 
+## 👥 Collaborators
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ImNatHarvey">
+        <img src="https://github.com/ImNatHarvey.png" width="120px;" />
+        <br />
+        <b>@ImNatHarvey</b>
+      </a>
+    </td>
+
+<td align="center">
+  <a href="https://github.com/xtyannn">
+    <img src="https://github.com/xtyannn.png" width="120px;" />
+    <br />
+    <b>@xtyannn</b>
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://github.com/rewisPage">
+    <img src="https://github.com/rewisPage.png" width="120px;" />
+    <br />
+    <b>@rewisPage</b>
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://github.com/n4viii">
+    <img src="https://github.com/n4viii.png" width="120px;" />
+    <br />
+    <b>@n4viii</b>
+  </a>
+</td>
+
+  </tr>
+</table>
+
+</div>
+
+---
+
 ![Image1](https://github.com/user-attachments/assets/e4a8cca7-2d4f-4eba-8d5e-406f6d98fb82)
 
 ![Image2](https://github.com/user-attachments/assets/28db2a6b-330e-445c-a056-a025b87c07dc)
@@ -11,6 +56,7 @@
 ![Image5](https://github.com/user-attachments/assets/bba96871-05f0-41fc-8fbe-d91295f72e33)
 
 ---
+
 
 ## 🎮 System Overview & Ecosystem
 The core ecosystem centers on a fictional race of custom pet avatars called **Hangpies** (a blend of "Hangman" word-mechanics and companion "pets").
